@@ -1,0 +1,13 @@
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\tshidifk\Downloads\An-E-commerce-app-with-.Net-Core-and-Angular-master\An-E-commerce-app-with-.Net-Core-and-Angular-master\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
